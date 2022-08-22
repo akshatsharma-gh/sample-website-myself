@@ -1,0 +1,44 @@
+
+body{
+    margin: 0px;
+    text-align: center;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-size: 5.62rem;
+    color: #66bfbf;
+}
+h2{
+    font-family: sans-serif;
+    font-size: 2.53rem;
+    color: #66bfbf;
+    font-weight: normal;
+}
+h3{
+    color:#11999e ;
+}
+.top-container{
+    background-color: rgba(216, 236, 240, 0.932);
+    padding-top: 100px;
+    
+}
+.cloud2{
+
+    position: absolute;
+}
+.mountain{
+    
+    position: relative;
+    border: 0;
+}
+.cloud1{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+.footer-link{
+    color: #11999E;
+}
+.btn{
+    color: #11999E;
+}
